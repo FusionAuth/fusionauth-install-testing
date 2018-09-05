@@ -13,5 +13,5 @@ To get the project set up and ready for testing, run the following command:
 To execute the test on Linux or macOS, run the following command:
 
 ```
-> ./kitchen-test.sh
+./kitchen-test.sh
 ```
